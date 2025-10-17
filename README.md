@@ -1,16 +1,22 @@
-## Hi there 👋
+# 👋 Hi, I'm Oodemi
 
-<!--
-**OODemi52/OODemi52** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Software Engineer | AI/ML • Intelligent Systems • Full Stack Development  
+🚀 Passionate about building tools that bridge the gap between software and the real world  
 
-Here are some ideas to get you started:
+### 🧠 What I’m Working On
+- 🤖 **AutoScene** – AI-powered image retrieval and scene generation pipeline  
+- 🧩 **Slackshots** – Media management and automation for Slack teams  
+- 🧪 **Facelens** – Intelligent photo recognition and organization  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack
+`Go` • `TypeScript` • `Python` • `React` • `Next.js` • `PostgreSQL` • `Docker` • `AWS`
+
+### 📫 Connect with me
+- [LinkedIn](https://www.linkedin.com/in/yourlinkedin)
+- [Portfolio](https://oodemi.com)
+- [Email](mailto:youremail@example.com)
+
+---
+
+### 🐍 GitHub Contribution Snake
+![](https://github.com/oodemi/oodemi/blob/output/github-contribution-grid-snake.svg)
