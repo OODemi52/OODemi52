@@ -19,4 +19,5 @@
 ---
 
 ### 🐍 GitHub Contribution Snake
-![](https://github.com/oodemi/oodemi/blob/output/github-contribution-grid-snake.svg)
+![GitHub Snake Light](https://raw.githubusercontent.com/OODemi52/OODemi52/output/github-snake.svg#gh-light-mode-only)
+![GitHub Snake Dark](https://raw.githubusercontent.com/OODemi52/OODemi52/output/github-snake-dark.svg#gh-dark-mode-only)
