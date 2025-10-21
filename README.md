@@ -31,14 +31,14 @@ I build <strong>AI-driven media pipelines</strong>, <strong>computer vision solu
 
 <table align="center" style="border: none; border-collapse: collapse;">
   <tr>
-    <td style="border: none; padding: 10px;">
-      <a href="https://github.com/ChristChapelMD/slackshots">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=ChristChapelMD&repo=slackshots&theme=github_dark_dimmed&description_lines_count=2" />
+    <td style="border: none;  padding: 10px;">
+      <a href="https://github.com/OODemi52/extents">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=OODemi52&repo=extents&theme=github_dark_dimmed&description_lines_count=2" />
       </a>
     </td>
     <td style="border: none; padding: 10px;">
-      <a href="https://github.com/OODemi52/autoscene">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=OODemi52&repo=autoscene&theme=github_dark_dimmed&description_lines_count=2" />
+      <a href="https://github.com/ChristChapelMD/slackshots">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=ChristChapelMD&repo=slackshots&theme=github_dark_dimmed&description_lines_count=2" />
       </a>
     </td>
   </tr>
@@ -60,9 +60,9 @@ I build <strong>AI-driven media pipelines</strong>, <strong>computer vision solu
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=OODemi52&repo=rn-barista&theme=github_dark_dimmed&description_lines_count=2" />
       </a>
     </td>
-    <td style="border: none;  padding: 10px;">
-      <a href="https://github.com/OODemi52/extents">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=OODemi52&repo=extents&theme=github_dark_dimmed&description_lines_count=2" />
+      <td style="border: none; padding: 10px;">
+      <a href="https://github.com/OODemi52/autoscene">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=OODemi52&repo=autoscene&theme=github_dark_dimmed&description_lines_count=2" />
       </a>
     </td>
   </tr>
