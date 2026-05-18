@@ -1,31 +1,17 @@
-<div align="center">
+ <div align="center">
 <h1><img src="https://raw.githubusercontent.com/OODemi52/devport/webterm/public/android-chrome-512x512.png" width="50"/> Hi, I'm Demi</h1>
 
-<br />
-<br />
-<br />
-
-<div align="center">💻 Software Engineer | Full Stack • AI/ML • Intelligent Systems • Internal Tools & Automation  
+<div align="center">
+  💻 Software Engineer
+  <br />
+  Full Stack • AI/ML • Intelligent Systems • Internal Tools & Automation 
 </div>
 
 <br />
 
 <div align="center">
 
-
-<p>
-I’m a <strong>software engineer</strong> passionate about building <strong>intelligent, real-world systems</strong>. 
-I work across <strong>full-stack development</strong> and <strong>AI/ML</strong>, creating <em>performant, secure, and user-focused</em> tools. 
-I build <strong>AI-driven media pipelines</strong>, <strong>computer vision solutions</strong>, and <strong>automation systems</strong> that turn complex ideas into <strong>scalable systems</strong> solving meaningful problems.
-</p>
-
-</div>
-
-<br />
-
-<div align="center">
-
-### 🧠 What I’m Working On
+  ### Currently Working On
 
 </div>
 
@@ -33,58 +19,16 @@ I build <strong>AI-driven media pipelines</strong>, <strong>computer vision solu
   <tr>
     <td style="border: none;  padding: 10px;">
       <a href="https://github.com/OODemi52/extents">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=OODemi52&repo=extents&theme=github_dark_dimmed&description_lines_count=2" />
+        <img src="https://kayan-github-profile-projects-featu.vercel.app/api/pin/?username=OODemi52&repo=extents&theme=github_dark_dimmed&description_lines_count=2" />
       </a>
     </td>
     <td style="border: none; padding: 10px;">
       <a href="https://github.com/ChristChapelMD/slackshots">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=ChristChapelMD&repo=slackshots&theme=github_dark_dimmed&description_lines_count=2" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td style="border: none; padding: 10px;">
-      <a href="https://github.com/OODemi52/chronocast">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=OODemi52&repo=chronocast&theme=github_dark_dimmed&description_lines_count=2" />
-      </a>
-    </td>
-    <td style="border: none; padding: 10px;">
-      <a href="https://github.com/OODemi52/signify">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=OODemi52&repo=signify&theme=github_dark_dimmed&description_lines_count=2" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td style="border: none; padding: 10px;">
-      <a href="https://github.com/OODemi52/rn-barista">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=OODemi52&repo=rn-barista&theme=github_dark_dimmed&description_lines_count=2" />
-      </a>
-    </td>
-      <td style="border: none; padding: 10px;">
-      <a href="https://github.com/OODemi52/autoscene">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=OODemi52&repo=autoscene&theme=github_dark_dimmed&description_lines_count=2" />
+        <img src="https://kayan-github-profile-projects-featu.vercel.app/api/pin/?username=OODemi52&repo=BMD-Rig-Control&theme=github_dark_dimmed&description_lines_count=2" />
       </a>
     </td>
   </tr>
 </table>
-
-
-<div align="center">
-
-<br />
-
-### 🛠️ Tech Stack
-`Go` • `TypeScript` • `Python` • `React` • `Next.js` • `Node` • `PostgreSQL` • `MongoDB` • `Docker` • `AWS` • `AI/ML` • `Computer Vision`
-
-</div>
-
-<br />
-
-<div align="center">
-
-### Contributions Chart
-
-</div>
 
 ![GitHub Snake Light](https://raw.githubusercontent.com/OODemi52/OODemi52/output/github-snake.svg#gh-light-mode-only)
 ![GitHub Snake Dark](https://raw.githubusercontent.com/OODemi52/OODemi52/output/github-snake-dark.svg#gh-dark-mode-only)
