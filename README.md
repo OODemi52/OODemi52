@@ -11,24 +11,12 @@
 
 <div align="center">
 
-  ### Currently Working On
+  ### Currently Focus
 
 </div>
 
-<table align="center" style="border: none; border-collapse: collapse;">
-  <tr>
-    <td style="border: none;  padding: 10px;">
-      <a href="https://github.com/OODemi52/extents">
-        <img src="https://kayan-github-profile-projects-featu.vercel.app/api/pin/?username=OODemi52&repo=extents&theme=github_dark_dimmed&description_lines_count=2" />
-      </a>
-    </td>
-    <td style="border: none; padding: 10px;">
-      <a href="https://github.com/ChristChapelMD/slackshots">
-        <img src="https://kayan-github-profile-projects-featu.vercel.app/api/pin/?username=OODemi52&repo=BMD-Rig-Control&theme=github_dark_dimmed&description_lines_count=2" />
-      </a>
-    </td>
-  </tr>
-</table>
+<img align="center" src="https://kayan-github-profile-projects-featu.vercel.app/api/pin/?username=OODemi52&repo=extents&theme=github_dark_dimmed&description_lines_count=2" />
+
 
 ![GitHub Snake Light](https://raw.githubusercontent.com/OODemi52/OODemi52/output/github-snake.svg#gh-light-mode-only)
 ![GitHub Snake Dark](https://raw.githubusercontent.com/OODemi52/OODemi52/output/github-snake-dark.svg#gh-dark-mode-only)
