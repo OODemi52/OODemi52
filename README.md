@@ -11,7 +11,7 @@
 
 <div align="center">
 
-  ### Currently Focus
+  ### Current Focus
 
 </div>
 
